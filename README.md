@@ -7,7 +7,7 @@
 
 </div>
 
-# 💫 About Me:
+# 💫 Rahul P
 
 ```bash
 rahul@dev:~$ whoami
