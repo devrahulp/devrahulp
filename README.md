@@ -1,4 +1,17 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=%F0%9F%92%AB%20About%20Me&fontSize=48&fontColor=58a6ff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=700&lines=Software+Development;Backend+Engineering;DevOps;AI+%2F+ML+%26+Data+Science)](https://github.com/devrahulp)
+
+</div>
+
 # 💫 About Me:
+
+```bash
+rahul@dev:~$ whoami
+```
 
 I'm a 3rd-year Artificial Intelligence & Data Science student interested in **Software Development, DevOps, and AI/ML**.
 
@@ -31,6 +44,10 @@ I enjoy building backend and full-stack applications, designing REST APIs, and e
 ---
 
 # 💻 Tech Stack:
+
+```bash
+rahul@dev:~$ ls ./stack
+```
 
 ### Languages
 
@@ -70,17 +87,19 @@ I enjoy building backend and full-stack applications, designing REST APIs, and e
 
 # 📚 Currently Learning:
 
-`System Design` · `LLD` 
+`System Design` · `LLD`
+
 ---
+
 # 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=devrahulp&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=devrahulp&theme=github-dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=58A6FF)
 
 ---
 
 ## 📈 Contribution Activity
 
-[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devrahulp&theme=github-dark&hide_border=true)](https://github.com/devrahulp)
+[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devrahulp&theme=github-dark&hide_border=true&bg=0d1117&color=58a6ff&line=3fb950&point=ffffff)](https://github.com/devrahulp)
 
 ---
 
@@ -90,4 +109,10 @@ I enjoy building backend and full-stack applications, designing REST APIs, and e
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=devrahulp&color=blue&style=flat-square)](https://github.com/devrahulp)
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=devrahulp&color=238636&style=flat-square&label=PROFILE+VIEWS)](https://github.com/devrahulp)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer" width="100%" alt="footer" />
