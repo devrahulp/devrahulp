@@ -66,44 +66,11 @@ I enjoy building backend and full-stack applications, designing REST APIs, and e
 `DSA` · `OOP` · `DBMS` · `REST APIs` · `Operating Systems` · `CI/CD` · `Linux`
 
 ---
-
-# 🚀 Featured Projects:
-
-### 🩺 GitDoctor
-
-**AI-powered codebase health analysis and automated code improvement platform**
-
-- Analyzes GitHub repositories and identifies potential issues
-- Categorizes and prioritizes codebase problems
-- Uses AI to explain issues and suggest improvements
-- Generates code changes and helps verify fixes
-- Built using **React, Flask, MySQL, GitHub API, Docker and LLMs**
-
 ---
 
-### 🚨 Sentinel
+# 📚 Currently Learning:
 
-**Event-driven incident alerting and management platform**
-
-- Manages incidents through their complete lifecycle
-- Supports severity-based alert rules
-- Implements event deduplication and incident reopening
-- Provides team and developer assignment workflows
-- Includes REST APIs and an administrative dashboard
-- Built using **Flask, React, MySQL and Docker**
-
----
-
-### 🏙️ Smart Urban Management
-
-**AI-powered citizen assistance and infrastructure issue detection platform**
-
-- Detects infrastructure issues using computer vision
-- Provides citizen complaint management
-- Includes an administrative dashboard for issue tracking
-- Supports real-time notifications
-- Built using **Flask, YOLO, OpenCV and Socket.IO**
-
+`System Design` · `LLD` 
 ---
 # 📊 GitHub Stats
 
