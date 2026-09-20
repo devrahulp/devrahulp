@@ -1,13 +1,13 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=%F0%9F%92%AB%20About%20Me&fontSize=48&fontColor=58a6ff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=%F0%9F%92%AB%20RAHUL%20P&fontSize=48&fontColor=58a6ff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=700&lines=Software+Development;Backend+Engineering;DevOps;AI+%2F+ML+%26+Data+Science)](https://github.com/devrahulp)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=700&lines=Software+Development;Backend+Engineering;DevOps](https://github.com/devrahulp)
 
 </div>
 
-# 💫 Rahul P
+# 💫 About Me
 
 ```bash
 rahul@dev:~$ whoami
